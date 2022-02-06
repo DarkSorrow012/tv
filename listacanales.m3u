@@ -12,45 +12,61 @@ http://darksorrow.asuscomm.com:8080/udp/239.0.0.177:8208
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.176:8208
 #EXTINF:-1,[006] La Sexta HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.187:8208
-#EXTINF:-1, [009] CMM TV HD *
+#EXTINF:-1, [007] CMM TV HD *
 http://darksorrow.asuscomm.com:8080/udp/239.0.5.150:8208
-#EXTINF:-1,[026] Neox HD
+#EXTINF:-1,[008] Energy
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.59:8208
+#EXTINF:-1,[009] Neox HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.5.207:8208
-#EXTINF:-1,[027] Atreseries HD
+#EXTINF:-1,[010] Atreseries HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.190:8208
-#EXTINF:-1,[042] TRECE
+#EXTINF:-1,[011] TRECE
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.91:8208
-#EXTINF:-1,[043] Paramount Network
+#EXTINF:-1,[012] Paramount Network
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.90:8208
-#EXTINF:-1,[063] GOL HD
+#EXTINF:-1,[013] GOL HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.5.189:8208
-#EXTINF:-1,[064] Teledeporte HD
+#EXTINF:-1,[014] Teledeporte HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.188:8208
-#EXTINF:-1,[068] Real Madrid TV HD
+#EXTINF:-1,[015] Real Madrid TV HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.179:8208
-#EXTINF:-1,[077] Discovery Max
+#EXTINF:-1,[016] Discovery Max
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.32:8208
-#EXTINF:-1,[082] Nova HD
+#EXTINF:-1,[018] Nova HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.5.209:8208
-#EXTINF:-1,[083] MEGA HD
+#EXTINF:-1,[019] MEGA HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.5.210:8208
-#EXTINF:-1,[084] BeMad HD
+#EXTINF:-1,[020] BeMad HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.182:8208
-#EXTINF:-1,[096] Disney Channel HD
+#EXTINF:-1,[021] Disney Channel HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.173:8208
-#EXTINF:-1,[097] Boing
+#EXTINF:-1,[022] Boing
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.66:8208
-#EXTINF:-1,[098] Clan TVE HD
+#EXTINF:-1,[023] Clan TVE HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.184:8208
-#EXTINF:-1,[112] Canal 24 Horas
+#EXTINF:-1,[024] Canal 24 Horas
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.78:8208
-#EXTINF:-1,[124] El Toro TV HD
+#EXTINF:-1,[025] El Toro TV HD
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.168:8208
-#EXTINF:-1,[125] Negocios TV
+#EXTINF:-1,[026] Negocios TV
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.85:8208
-#EXTINF:-1,[126] DKISS
+#EXTINF:-1,[027] DKISS
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.6:8208
-#EXTINF:-1,[127] Ten
+#EXTINF:-1,[028] Ten
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.34:8208
-#EXTINF:-1,[159] 8tv
+#EXTINF:-1,[029] 8tv
 http://darksorrow.asuscomm.com:8080/udp/239.0.0.82:8208
+#EXTINF:-1,[030] Movistar Plus+ SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.77:8208
+#EXTINF:-1,[031] La 1 SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.76:8208
+#EXTINF:-1,[032] La 2 SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.2:8208
+#EXTINF:-1,[033] Antena 3 SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.3:8208
+#EXTINF:-1,[034] Cuatro SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.4:8208
+#EXTINF:-1,[035] Tele 5 SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.5:8208
+#EXTINF:-1,[036] La Sexta SD
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.58:8208
