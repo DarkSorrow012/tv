@@ -1,56 +1,56 @@
 #EXTINF:-1,[000] Movistar Plus+ HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.185:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.185:8208
 #EXTINF:-1,[001] La 1 HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.185:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.185:8208
 #EXTINF:-1,[002] La 2 HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.183:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.183:8208
 #EXTINF:-1,[003] Antena 3 HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.186:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.186:8208
 #EXTINF:-1,[004] Cuatro HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.177:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.177:8208
 #EXTINF:-1,[005] Tele 5 HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.176:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.176:8208
 #EXTINF:-1,[006] La Sexta HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.187:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.187:8208
 #EXTINF:-1, [009] CMM TV HD *
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.150:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.150:8208
 #EXTINF:-1,[026] Neox HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.207:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.207:8208
 #EXTINF:-1,[027] Atreseries HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.190:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.190:8208
 #EXTINF:-1,[042] TRECE
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.91:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.91:8208
 #EXTINF:-1,[043] Paramount Network
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.90:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.90:8208
 #EXTINF:-1,[063] GOL HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.189:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.189:8208
 #EXTINF:-1,[064] Teledeporte HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.188:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.188:8208
 #EXTINF:-1,[068] Real Madrid TV HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.179:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.179:8208
 #EXTINF:-1,[077] Discovery Max
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.32:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.32:8208
 #EXTINF:-1,[082] Nova HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.209:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.209:8208
 #EXTINF:-1,[083] MEGA HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.5.210:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.5.210:8208
 #EXTINF:-1,[084] BeMad HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.182:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.182:8208
 #EXTINF:-1,[096] Disney Channel HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.173:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.173:8208
 #EXTINF:-1,[097] Boing
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.66:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.66:8208
 #EXTINF:-1,[098] Clan TVE HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.184:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.184:8208
 #EXTINF:-1,[112] Canal 24 Horas
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.78:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.78:8208
 #EXTINF:-1,[124] El Toro TV HD
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.168:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.168:8208
 #EXTINF:-1,[125] Negocios TV
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.85:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.85:8208
 #EXTINF:-1,[126] DKISS
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.6:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.6:8208
 #EXTINF:-1,[127] Ten
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.34:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.34:8208
 #EXTINF:-1,[159] 8tv
-http://darksorrow.asuscomm.com:5555/rtp/239.0.0.82:8208
+http://darksorrow.asuscomm.com:8080/udp/239.0.0.82:8208
